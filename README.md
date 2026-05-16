@@ -163,3 +163,7 @@ Builds the React client into `client/build/`. You can serve this with the Expres
 - 💳 **Card Visuals** — Real card images with SVG fallback if image fails to load
 - 📊 **MongoDB** — Cards stored in database, auto-seeded on first run
 - 📱 **Responsive** — Works on mobile, tablet, and desktop
+
+## Made by
+Prasanna B — B.Tech IT(8115U23IT070),
+K. Ramakrishnan College of Engineering, Trichy
